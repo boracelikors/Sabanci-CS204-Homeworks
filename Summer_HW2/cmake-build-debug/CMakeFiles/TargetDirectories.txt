@@ -1,0 +1,3 @@
+C:/Users/Bora/CLionProjects/Summer_HW2/cmake-build-debug/CMakeFiles/Summer_HW2.dir
+C:/Users/Bora/CLionProjects/Summer_HW2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Bora/CLionProjects/Summer_HW2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
